@@ -5,7 +5,7 @@
 }
 
 body {
-    background:url('');
+    background:url('1085.webp');
     font-family: bai jamjuree;
 }
 
@@ -27,7 +27,7 @@ body {
 .cartao__conteudo {
    background-color: var(--card-front-color);
    text-align: center;
-   /*backound-color:aquamarine: */
+   /*backound-color: blue: */
    height: 100%;
    transform-style: preserve-3d;
    transition: transforma300ms ease-in-out;
