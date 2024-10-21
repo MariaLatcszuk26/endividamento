@@ -45,9 +45,7 @@ criaCartao(
 
 criaCartao(
     'Endividamento',
-    'Quais tipos de endividamento?',
-    'Endividamento de consumo',
-    'Endividamento imobiliario',
-    'Endividamento empresarial',
-    'Endividamento por saude'
-)
+    'Quais tipos de endividamento?','Endividamento de consumo','Endividamento imobiliario','Endividamento empresarial','Endividamento por saude'
+    )
+    
+
